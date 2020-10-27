@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
                 1,
                 96000,
                 22000,
-                "/storage/emulated/0/Music/new_aud.mp3"
+                "/storage/emulated/0/Music/new_audio.mp3"
         );
     }
 }
