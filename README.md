@@ -56,6 +56,8 @@ PCM-Decoder don't process audio in the background thread because of :
 * You can use your own approach to work in the background thread. It makes PCM-Decoder library more flexible.
 * Reduce library size. Third-party library uses a lot of space and PCM-Decoder delegates this task to user.
 
+## Based on <a href="https://github.com/rangaofei/AudioApplication">this project</a>
+
 ## Feedback
 <a href="https://mail.google.com">linc.apps.sup@gmail.com</a>
 
