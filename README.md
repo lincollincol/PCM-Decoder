@@ -30,7 +30,7 @@ allprojects {
 ```
 ``` groovy
 dependencies {
-  implementation 'com.github.lincollincol:PCM-Decoder:1.1'
+  implementation 'com.github.lincollincol:PCM-Decoder:1.0'
 }
 ```
 
@@ -47,7 +47,7 @@ dependencies {
 <dependency>
   <groupId>com.github.lincollincol</groupId>
   <artifactId>PCM-Decoder</artifactId>
-  <version>1.1</version>
+  <version>1.0</version>
 </dependency>
 ```
 ## WARNING
